@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+assets-cdn-refresh.getbento.com	TRUE	/	FALSE	1999999999	csrftoken	5wZSOkeFWWOtPneeEi26VQ0Ko7rH31U8ocQrtbphmaOPC1ktZiKTrpI0dcLoAnh9
+assets-cdn-refresh.getbento.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.rodos614.com	TRUE	/	FALSE	1999999999	csrftoken	tk57A8Wuq95fM15OiV6s7KGx9ZygcO9XXrMeXljiMCSJ0QYlBdXtBQUKgIP8ezhB
+www.rodos614.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+rodos614.getbento.com	TRUE	/	FALSE	1999999999	csrftoken	giDVuvV3d6kWap3byqXp4obznBO9xEw5XxBCXzW0U7n6IMWkh65mow9icO7sRJyx
+rodos614.getbento.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
